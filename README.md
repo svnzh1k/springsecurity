@@ -1,2 +1,2 @@
-# springsecurity
+# Spring Security
 Шаблон для настройки и работы с JWT аутентификацией 
